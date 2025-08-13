@@ -1,32 +1,30 @@
 ### Actions
 
-### 🍉 Watermelon
--------
-
-![[01  🍉 Watermelon app#actions]]
-
-
-### 🇪🇸 España
+#### 🇪🇸 España
 ------
 
 ![[05  🇪🇸  Espaňa#actions]]
 
 
-
-### 🥦 Health
+#### 🥦 Health
 -----
 
 ![[03  🥦 Health#actions]]
 
 
-
-### 🏡 Home
+#### 🏡 Home
 -------
 
 ![[02  🏡 Home#actions]]
 
 
-### 💶 Finance
+#### 🍉 Watermelon
+-------
+
+![[01  🍉 Watermelon app#actions]]
+
+
+#### 💶 Finance
 -------
 
 ![[04  💶  Finance#actions]]
