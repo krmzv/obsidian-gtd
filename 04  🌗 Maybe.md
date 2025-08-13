@@ -1,0 +1,2 @@
+- [ ] Purchase new Cube road bike
+- [ ] Print custom watermelon stickers
